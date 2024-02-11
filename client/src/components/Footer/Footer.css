@@ -1,0 +1,37 @@
+.Footer {
+    width: 100%;
+    height: 35vh;
+    position: absolute;
+    bottom: 0;
+    background: #607D82;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.footer-content {
+    width: 65%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin: 20px 0;
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.content-header {
+    font-size: 18px!important;
+}
+
+.typography {
+    width: 100%;
+    height: 20%;
+    background: #5E5E5E;
+    margin-bottom: 20px;
+}
